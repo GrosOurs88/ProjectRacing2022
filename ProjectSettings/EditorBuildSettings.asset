@@ -21,6 +21,6 @@ EditorBuildSettings:
     path: Assets/DontTouchThis/Scenes/DecorScene.unity
     guid: ac7652b2c5cefea4ebabeab4891af328
   - enabled: 1
-    path: Assets/Students Folder/Scenes/SetupSceneToDuplicate.unity
+    path: Assets/Students Folder/Scenes/GameplayDembiermontEmerson.unity
     guid: e1058e7ffe49b974e9aff4b0c24dc63b
   m_configObjects: {}
