@@ -51,7 +51,7 @@ public class GameFlowManager : MonoBehaviour
 
     public TimeInfos finalTime;
 
-    public enum SpawnInSpecificZone { Nothing, Zone1_Jason, Zone2_Lionel, Zone3_Xavier, Zone4_Mathieu, Zone5_Paul, Zone6_Corentin, Zone7_Egon, Zone8_Antonio, Zone9_Louise, Zone10_Quentin, Zone11_Nicolas, Zone12_Alexandre }
+    public enum SpawnInSpecificZone { Nothing, Zone1_Nathanael, Zone2_Anatole, Zone3_Bryan, Zone4_Emerson, Zone5_Gabriel, Zone6_JB, Zone7_Liam, Zone8_Louis, Zone9_Marvin, Zone10_Martin, Zone11_Reshma, Zone12_Sebastien }
     public GameObject zonesSpawnPointsList;
     public SpawnInSpecificZone zoneToSpawn;
     
@@ -106,40 +106,40 @@ public class GameFlowManager : MonoBehaviour
         {
             case SpawnInSpecificZone.Nothing:                
                 break;
-            case SpawnInSpecificZone.Zone1_Jason:
+            case SpawnInSpecificZone.Zone1_Nathanael:
                 TeleportKartToPoint(0);
                 break;
-            case SpawnInSpecificZone.Zone2_Lionel:
+            case SpawnInSpecificZone.Zone2_Anatole:
                 TeleportKartToPoint(1);
                 break;
-            case SpawnInSpecificZone.Zone3_Xavier:
+            case SpawnInSpecificZone.Zone3_Bryan:
                 TeleportKartToPoint(2);
                 break;
-            case SpawnInSpecificZone.Zone4_Mathieu:
+            case SpawnInSpecificZone.Zone4_Emerson:
                 TeleportKartToPoint(3);
                 break;
-            case SpawnInSpecificZone.Zone5_Paul:
+            case SpawnInSpecificZone.Zone5_Gabriel:
                 TeleportKartToPoint(4);
                 break;
-            case SpawnInSpecificZone.Zone6_Corentin:
+            case SpawnInSpecificZone.Zone6_JB:
                 TeleportKartToPoint(5);
                 break;
-            case SpawnInSpecificZone.Zone7_Egon:
+            case SpawnInSpecificZone.Zone7_Liam:
                 TeleportKartToPoint(6);
                 break;
-            case SpawnInSpecificZone.Zone8_Antonio:
+            case SpawnInSpecificZone.Zone8_Louis:
                 TeleportKartToPoint(7);
                 break;
-            case SpawnInSpecificZone.Zone9_Louise:
+            case SpawnInSpecificZone.Zone9_Marvin:
                 TeleportKartToPoint(8);
                 break;
-            case SpawnInSpecificZone.Zone10_Quentin:
+            case SpawnInSpecificZone.Zone10_Martin:
                 TeleportKartToPoint(9);
                 break;
-            case SpawnInSpecificZone.Zone11_Nicolas:
+            case SpawnInSpecificZone.Zone11_Reshma:
                 TeleportKartToPoint(10);
                 break;
-            case SpawnInSpecificZone.Zone12_Alexandre:
+            case SpawnInSpecificZone.Zone12_Sebastien:
                 TeleportKartToPoint(11);
                 break;
         }
