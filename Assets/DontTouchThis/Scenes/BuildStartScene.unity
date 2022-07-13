@@ -343,21 +343,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scenesToLoadAtStart:
-  - 
-  - 
+  - GameplayAmandNathanael
   - GameplayBourbonHugo
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - GameplayCremersSebastien
+  - GameplayDeFruBryan
+  - GameplayDehonGaby
+  - GameplayDembiermontEmerson
+  - GameplayGoolamyReshma
+  - GameplayLiamNey
+  - GameplayLouisVanus
+  - GameplayMoesMartin
+  - GameplayRolandMarvin
+  - GameplayWattiezAnatole
   - DecorScene
-  - LinksScene
   - MainScene
 --- !u!1 &1515802732
 GameObject:
