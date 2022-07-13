@@ -222,7 +222,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b2e8893a3093437d9d101b53db56941, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  useController: 0
   baseStats:
     TopSpeed: 40
     Acceleration: 10
@@ -340,7 +339,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 209e0188f67882244b486c2f5fb89ae6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TemplateCharacter: {fileID: 7856713533774799813}
+  avatarAndKart: []
+  kartWheels: []
 --- !u!1 &4895846115356922113
 GameObject:
   m_ObjectHideFlags: 0
@@ -1114,11 +1114,6 @@ GameObject:
 --- !u!4 &7856713533774446117 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400064, guid: 078f73b46517318428ecaf8e7207124c, type: 3}
-  m_PrefabInstance: {fileID: 7856713533774832869}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &7856713533774799813 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100128, guid: 078f73b46517318428ecaf8e7207124c, type: 3}
   m_PrefabInstance: {fileID: 7856713533774832869}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7856713534272610957
