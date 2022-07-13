@@ -360,7 +360,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4126308969757332890, guid: 877fc6ef080ba4ecd8a8651303bb0d66, type: 3}
       propertyPath: m_Name
-      value: ModularTrackCantMediumRight
+      value: Start
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 877fc6ef080ba4ecd8a8651303bb0d66, type: 3}
