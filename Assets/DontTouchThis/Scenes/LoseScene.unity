@@ -345,21 +345,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scenesName:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - SetupSceneToDuplicate
+  - GameplayAmandNathanael
+  - GameplayBourbonHugo
+  - GameplayCremersSebastien
+  - GameplayDeFruBryan
+  - GameplayDehonGaby
+  - GameplayDembiermontEmerson
+  - GameplayGoolamyReshma
+  - GameplayLiamNey
+  - GameplayLouisVanus
+  - GameplayMoesMartin
+  - GameplayRolandMarvin
+  - GameplayWattiezAnatole
+  - SetupScene
   - DecorScene
-  - 
   - MainScene
 --- !u!1 &134625305
 GameObject:
