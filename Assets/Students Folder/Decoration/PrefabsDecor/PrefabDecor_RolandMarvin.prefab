@@ -211,7 +211,6 @@ GameObject:
   - component: {fileID: 1643975294134271954}
   - component: {fileID: 2102937165455777913}
   - component: {fileID: 1816964783787418544}
-  - component: {fileID: 6172066523999076936}
   m_Layer: 0
   m_Name: lion_king_PNG97.png.opdownload
   m_TagString: Untagged
@@ -313,20 +312,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 10.239999, y: 7.14, z: 5.11}
   m_Center: {x: 0, y: 1.45, z: 0}
---- !u!64 &6172066523999076936
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4438995088449556390}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 5bb97b332176ae0499af0f666e4f5828, type: 3}
 --- !u!64 &5257370897156178920
 MeshCollider:
   m_ObjectHideFlags: 0
