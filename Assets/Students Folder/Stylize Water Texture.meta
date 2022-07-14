@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Students Folder/Stylize Water Texture.meta
 guid: 8eb2ad1e39bd88945ae71edd56594604
 folderAsset: yes
+========
+guid: 12c6f44bbd4eef541a925ea029b57f07
+>>>>>>>> 38b625173f31a201eee9e92a14b64041afbd321b:Assets/Students Folder/Decoration/DecorPackages/Fantasy Skybox FREE/Scenes/Demo without test terrain.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
