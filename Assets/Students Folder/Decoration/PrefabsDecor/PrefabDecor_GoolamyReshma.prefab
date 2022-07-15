@@ -6703,6 +6703,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ManholeCover
       objectReference: {fileID: 0}
+    - target: {fileID: 3384786705159882171, guid: 68b2ca32dc0cdaa4d941a1df55fae058, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 3384786705159882171, guid: 68b2ca32dc0cdaa4d941a1df55fae058, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.098
+      objectReference: {fileID: 0}
     - target: {fileID: 7969112181057159674, guid: 68b2ca32dc0cdaa4d941a1df55fae058, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
