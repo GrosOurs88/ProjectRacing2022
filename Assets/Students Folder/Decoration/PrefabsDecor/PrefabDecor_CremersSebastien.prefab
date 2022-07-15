@@ -81714,6 +81714,7 @@ Transform:
   - {fileID: 6936017593570928920}
   - {fileID: 1302706416751448968}
   - {fileID: 5518747404559531902}
+  - {fileID: 4031085288947611226}
   m_Father: {fileID: 4430304797181074757}
   m_RootOrder: 100
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -93825,14 +93826,14 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: e41f42f5e81b018479b0091156c9ecc6, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
---- !u!1 &1455250800 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
-  m_PrefabInstance: {fileID: 1455217616}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1455079760 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+  m_PrefabInstance: {fileID: 1455217616}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1455250800 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
   m_PrefabInstance: {fileID: 1455217616}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1464879381
@@ -95161,14 +95162,14 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: e41f42f5e81b018479b0091156c9ecc6, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
---- !u!4 &742422744700999999 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
-  m_PrefabInstance: {fileID: 742422744701125567}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &742422744701158687 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+  m_PrefabInstance: {fileID: 742422744701125567}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &742422744700999999 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
   m_PrefabInstance: {fileID: 742422744701125567}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1007885576418521887
@@ -95254,7 +95255,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_Name
-      value: Toon Chicken (15)
+      value: Prone
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_RootOrder
@@ -95340,7 +95341,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_Name
-      value: Toon Chicken (12)
+      value: Billy
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_RootOrder
@@ -95566,7 +95567,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_Name
-      value: Toon Chicken (6)
+      value: Charly
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_RootOrder
@@ -96361,7 +96362,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_Name
-      value: Toon Chicken (11)
+      value: Auguste
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_RootOrder
@@ -96593,6 +96594,92 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4872504654109266, guid: 586534c0f9a745b4086c007888993b85, type: 3}
   m_PrefabInstance: {fileID: 3712214136958392762}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4031085288947215578
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1012987912893272061}
+    m_Modifications:
+    - target: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_Name
+      value: Mickaella
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04327806
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0874859
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.039501704
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.3177
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.3474
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.7985
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.17447667
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.06994608
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9820312
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.016735014
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -3.283
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 199.932
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 7.571
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 84dd067921f4e0045bb3a9a6e8fb7789, type: 2}
+    - target: {fileID: 9500000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_CullingMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 13700000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e41f42f5e81b018479b0091156c9ecc6, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+--- !u!4 &4031085288947611226 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+  m_PrefabInstance: {fileID: 4031085288947215578}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4273486048702450721
 PrefabInstance:
@@ -97229,7 +97316,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_Name
-      value: Toon Chicken (16)
+      value: Marionne
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_RootOrder
@@ -97383,14 +97470,14 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: e41f42f5e81b018479b0091156c9ecc6, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
---- !u!4 &5549459819099562386 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
-  m_PrefabInstance: {fileID: 5549459819099699986}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &5549459819099602354 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
+  m_PrefabInstance: {fileID: 5549459819099699986}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5549459819099562386 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
   m_PrefabInstance: {fileID: 5549459819099699986}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5611781731539685074
@@ -97946,7 +98033,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_Name
-      value: Toon Chicken (14)
+      value: Phillipe
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_RootOrder
@@ -98226,7 +98313,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_Name
-      value: Toon Chicken (13)
+      value: Gregoire
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
       propertyPath: m_RootOrder
