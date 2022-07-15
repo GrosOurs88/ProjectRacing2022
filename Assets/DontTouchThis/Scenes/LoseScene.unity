@@ -357,8 +357,10 @@ MonoBehaviour:
   - GameplayMoesMartin
   - GameplayRolandMarvin
   - GameplayWattiezAnatole
+  - GameplayJBVolders
   - DecorScene
   - MainScene
+  StartSceneName: BuildStartScene
 --- !u!1 &134625305
 GameObject:
   m_ObjectHideFlags: 0
